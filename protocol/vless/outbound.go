@@ -19,8 +19,8 @@ import (
 	"github.com/sagernet/sing/common/logger"
 	M "github.com/sagernet/sing/common/metadata"
 	N "github.com/sagernet/sing/common/network"
-	"github.com/wyx2685/sing-vmess/packetaddr"
-	"github.com/wyx2685/sing-vmess/vless"
+	"github.com/xxntmctx/sing-vmess/packetaddr"
+	"github.com/xxntmctx/sing-vmess/vless"
 )
 
 func RegisterOutbound(registry *outbound.Registry) {

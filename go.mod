@@ -45,8 +45,8 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.10.0
 	github.com/vishvananda/netns v0.0.5
-	github.com/xxntmctx/sing-vmess dev
 	github.com/xtls/reality v0.0.0-20240909153216-e26ae2305463
+	github.com/xxntmctx/sing-vmess v0.0.0-20250714014623-3c76c2f69324
 	go.uber.org/zap v1.27.0
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/crypto v0.38.0
